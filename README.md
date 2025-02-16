@@ -4,7 +4,7 @@ Welcome to my **[DSA]**! This repository is dedicated to my journey of learning 
 
 ## About
 - 🌱 I’m currently learning **DSA** and improving my problem-solving skills.
-- 💻 This repository contains code implementations, problem solutions, and notes.
+- 💻 This repository contains code implementations, problem solutions
 - 📚 Feel free to explore, contribute, or provide feedback!
 
 ## Contents
