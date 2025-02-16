@@ -16,4 +16,4 @@ Welcome to my **[DSA]**! This repository is dedicated to my journey of learning 
 
 ## How to Use
 1. Clone the repository
-   git clone 
+   git clone https://github.com/khan-mehak/DSA.git
